@@ -1,2 +1,2 @@
 # CUPRSI-Example
-This is examples for CUPRSI.
+These are examples for CUPRSI.
