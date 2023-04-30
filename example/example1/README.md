@@ -23,3 +23,5 @@ Parameters:
  VRAMSizeMB=        VRAM size (MB)
  file_mode=         0 A binary file 
                     1 A file list of binary files 
+
+Note that file "VirtualShot.su" we provide is only part of the actual calculation result.
