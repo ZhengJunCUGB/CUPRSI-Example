@@ -1,2 +1,2 @@
 # CUPRSI-Example
-These are examples for CUPRSI.(65MB)
+These are examples and information on how to use the program for CUPRSI.(65MB)
