@@ -6,3 +6,21 @@ You can run the program using the following command:
 2. si <PassiveSourceData.lst >VirtualShot.su par=si.par
 
 The file "si.par" includes all the parameters in 1
+
+Parameters:
+ ns=                number of points of input traces 
+ ntr=               number of input traces 
+ dt=                sample interval; in micro-seconds 
+ ns_win=            number of points of time windows in correlation 
+ outns=             number of points in output traces 
+ StartFldr=         start number of original field record number 
+ EndFldr=           end number of original field record number 
+ Stack_flag=        0 Not stack 
+                    1 Stack causal and noncausal part 
+ Device=            Device number 
+ threads=           number of threads 
+ blocks=            number of blocks 
+ RAMSizeMB=         RAM size (MB) 
+ VRAMSizeMB=        VRAM size (MB)
+ file_mode=         0 A binary file 
+                    1 A file list of binary files 
